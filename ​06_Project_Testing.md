@@ -30,6 +30,7 @@ The following validation checks are performed:
 
 ## 6.3 Test Case 1 – Wi-Fi Issue
 
+
 ### Test Input
 
 ```text
@@ -51,6 +52,8 @@ Subcategory → Wi-Fi
 An email notification should be sent to the caller's email address.
 
 ### Result
+<img width="1917" height="851" alt="Screenshot 2026-09-29 172248" src="https://github.com/user-attachments/assets/1fa35151-043c-48e1-88b9-76131bcc948c" />
+<img width="1917" height="1035" alt="Screenshot 2026-09-29 170807" src="https://github.com/user-attachments/assets/7bed736d-407b-4624-a302-fda41b81bb70" />
 
 The ticket is classified as a Network / Wi-Fi issue and the notification is generated.
 
@@ -79,6 +82,8 @@ Subcategory → Projector
 An email notification should be sent to the caller.
 
 ### Result
+<img width="1917" height="770" alt="Screenshot 2026-09-29 172223" src="https://github.com/user-attachments/assets/702aca9d-4692-4562-87aa-78fccfdecc38" />
+<img width="1917" height="1027" alt="Screenshot 2026-09-29 175032" src="https://github.com/user-attachments/assets/003d56b3-5360-40ef-8f67-30fa02b7eeb9" />
 
 The ticket is classified as a Hardware / Projector issue.
 
